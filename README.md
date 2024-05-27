@@ -1,6 +1,6 @@
 # OOP-LAB12
 ## SETUP
-1. Move the folder into oop-python-nycu.
+1. Move this folder(oop-lab12) into oop-python-nycu.
 2. Follow the command below.
 ```
 cd ~/oop-python-nycu
